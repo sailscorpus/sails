@@ -1,18 +1,23 @@
 # sails
+
 Semantic analysis of image based learner sentences (SAILS) corpus
 
 April 30, 2018
-Please contact me if you have any questions.
+
+I'm excited to share this corpus with fellow researchers and anyone interested. Please contact me if you have any questions.
+
 Levi King (leviking@indiana.edu)
 
 
-Supplemental materials:
+
+SUPPLEMENTAL MATERIALS:
 
 The PDT folder contains pdfs of the picture description tasks (four versions).
 
 The annotation_guide folder contains the tex and pdf file of the annotation guide used to annotate the responses.
 
 The figures folder contains all the images used in the task. Some of these are called by the annotation_guide tex file.
+
 
 
 CORPUS:

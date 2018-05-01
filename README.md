@@ -6,7 +6,7 @@ April 30, 2018
 
 I'm excited to share this corpus with fellow researchers and anyone interested. Please contact me if you have any questions.
 
-Levi King (leviking@indiana.edu)
+Levi King (leviking@indiana.edu) 
 
 
 

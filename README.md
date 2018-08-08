@@ -13,16 +13,22 @@ If you use this data, please cite this paper:
 Levi King and Markus Dickinson. 2018. Annotating Picture Description TaskResponses for Content Analysis. In Proceedings of the 13th Workshop on InnovativeUse of NLP for Building Educational Applications (BEA13). New Orleans, LA. pp.101–109.
 
 @InProceedings{W18-0510,
-  author = 	"King, Levi
-		and Dickinson, Markus",
+
+  author = 	"King, Levi and Dickinson, Markus",
+
   title = 	"Annotating picture description task responses for content analysis",
+
   booktitle = 	"Proceedings of the Thirteenth Workshop on Innovative Use of NLP for Building Educational Applications",
+
   year = 	"2018",
+
   publisher = 	"Association for Computational Linguistics",
+
   pages = 	"101--109",
+
   location = 	"New Orleans, Louisiana",
-  url = 	"http://aclweb.org/anthology/W18-0510"
-}
+
+  url = 	"http://aclweb.org/anthology/W18-0510"}
 
 
 Here's a run-down of everything in this GitHub repository:

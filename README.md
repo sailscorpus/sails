@@ -12,6 +12,8 @@ If you use this data, please cite this paper:
 
 Levi King and Markus Dickinson. 2018. Annotating Picture Description TaskResponses for Content Analysis. In Proceedings of the 13th Workshop on InnovativeUse of NLP for Building Educational Applications (BEA13). New Orleans, LA. pp.101–109.
 
+Bibtex:
+
 @InProceedings{W18-0510,
 
   author = 	"King, Levi and Dickinson, Markus",

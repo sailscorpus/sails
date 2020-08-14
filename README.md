@@ -100,4 +100,5 @@ The next columns are the feature annotations. "A1" is for Annotator 1. "A2" is f
  
 	Verifiability: 0.262
  
+	
 	In my own work, I use these AnnoScores to rank the test items from best to worst; this constitutes a Gold Standard ranking, and I use this to judge the performance of my automatic ranking models.

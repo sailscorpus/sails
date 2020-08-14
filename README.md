@@ -87,10 +87,17 @@ ResponseID: This is a unique identifier for each response in the corpus (even bl
 The next columns are the feature annotations. "A1" is for Annotator 1. "A2" is for Annotator 2. For more info on the five features, see the Annotation Guide. For most items, the "A2" columns will be empty.
 
  The final column, "AnnoScore" is a single score representing the overall quality of the response. This score is score is calculated by applying a feature weight to each of the 5 annotation feature scores (using Annotator 1 annotations only). The feature weights were determined through a preference test; Raters were presented with random pairs of responses and their PDT prompt, then asked to mark one of the two responses as "preferred", or mark the pair as "no preference". Using 1200 of these decisions, I counted the number of times a given feature was annotated as "1" ("yes") among all preferred responses, and divided that by the total number of all "1" annotations for all five features among all preferred responses. This yielded a weight for each feature.
+	
  The weights are:
- CoreEvent: 0.365
- Answerhood: 0.093
- Grammar: 0.056
- Interpretability: 0.224
- Verifiability: 0.262
- In my own work, I use these AnnoScores to rank the test items from best to worst; this constitutes a Gold Standard ranking, and I use this to judge the performance of my automatic ranking models.
+ 
+	CoreEvent: 0.365
+ 
+	Answerhood: 0.093
+ 
+	Grammar: 0.056
+ 
+	Interpretability: 0.224
+ 
+	Verifiability: 0.262
+ 
+	In my own work, I use these AnnoScores to rank the test items from best to worst; this constitutes a Gold Standard ranking, and I use this to judge the performance of my automatic ranking models.
